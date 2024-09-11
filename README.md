@@ -16,5 +16,5 @@ Ever wanted to pass secret messages James Bond-style? In this lab, I explore the
 ## Why This Matters:
 In the world of cybersecurity, hiding and retrieving data covertly is a valuable skill. Steganography allows messages to fly under the radar, ensuring private communications remain private.
 
-
+## 👉🏾 [Lab Walkthrough](https://github.com/Kpierre03/HidingAMessageInAPic/blob/main/Hiding.md)
 ---
