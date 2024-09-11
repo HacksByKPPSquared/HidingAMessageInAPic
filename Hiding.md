@@ -1,12 +1,10 @@
- Hiding a Hidden Message Within a Picture
+**Hiding a Hidden Message Within a Picture**
 
-**1.1 Using Steghide to Hide Hidden Messages**
-
-1.  Launch the Kali virtual machine to access the graphical login
-    screen.
-
-2\. Log in as root with toor as the password. Open the Kali PC Viewer.
-
+1.1 Using Steghide to Hide Hidden Messages
+> 1\.Launch the Kali virtual machine to access the graphical login
+>   screen.
+> 2\. Log in as root with toor as the password. Open the Kali PC Viewer.
+>
 > 3\. Click on the terminal icon located in the top menu bar.
 >
 > 4\. While in the *terminal*, navigate to the **/tmp/random**
